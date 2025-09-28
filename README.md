@@ -1,9 +1,9 @@
 # Task 3 - Sales Dashboard (Power BI)
 
-## 📌 Objective
+## Objective
 Design and develop an interactive Sales Dashboard using Power BI to analyze business performance.
 
-## 📊 Dataset
+## Dataset
 This dashboard uses the **Superstore Sales** dataset (`train.csv`).  
 Key columns used:
 - Order Date
@@ -12,13 +12,13 @@ Key columns used:
 - Product Name
 - Sales
 
-## 📈 Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 - **Total Sales** – Overall revenue generated.
 - **Total Orders** – Distinct count of Order IDs.
 - **Average Sales per Order** – Total Sales ÷ Total Orders.
 - **YoY Sales Growth** – Year-over-Year percentage change in sales.
 
-## 🖼 Dashboard Overview
+## Dashboard Overview
 The dashboard includes:
 - **Cards**: Total Sales, Total Orders, Avg Sales per Order.
 - **Slicers**: Year, Region, Category, Sub-Category.
@@ -28,23 +28,18 @@ The dashboard includes:
   - Clustered Bar Chart: Sales by Category.
   - Table: Top 10 Products by Sales.
 
-## 💡 Insights
+## Insights
 - West region contributes the highest sales.
 - Technology is the top-performing category.
 - Sales peak during November–December.
 
-## 📂 Files in Repository
+## Files in Repository
 - `Sales_Dashboard.pbix` – Power BI file.
 - `Task3_Sales_Dashboard_Final.pptx` – PowerPoint summary.
 - `screenshots/` – Dashboard screenshots.
 - `train.csv` – Dataset (or link to Kaggle if file size is too big).
 
-## 🚀 How to Use
-1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-2. Open `Sales_Dashboard.pbix` in Power BI Desktop.
-3. Interact with slicers and visuals to explore insights.
-
 ---
 
-**Author:** Your Name  
-**Date:** YYYY-MM-DD
+**Author:** Ayush Rawat 
+**Date:** 25-09-2025
