@@ -34,10 +34,9 @@ The dashboard includes:
 - Sales peak during November–December.
 
 ## Files in Repository
-- `Sales_Dashboard.pbix` – Power BI file.
+- `task3.pbix` – Power BI file.
 - `Task3_Sales_Dashboard_Final.pptx` – PowerPoint summary.
-- `screenshots/` – Dashboard screenshots.
-- `train.csv` – Dataset (or link to Kaggle if file size is too big).
+- `Sales.csv` – Dataset (or link to Kaggle if file size is too big).
 
 ---
 
